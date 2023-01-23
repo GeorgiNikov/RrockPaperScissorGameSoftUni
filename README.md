@@ -1,4 +1,4 @@
-                                        The "Rock-Paper-Scissors" Game
+The "Rock-Paper-Scissors" Game
 
 
 Inside this project there is a code for the game: "rock,paper,scissors.
