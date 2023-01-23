@@ -2,6 +2,7 @@
 
 
 Inside this project there is a code for the game: "rock,paper,scissors.
+
 Source code link:https://pastebin.com/hFfwyfuv
 
 1.A classic two-person game.But now for one when you are alone and don't know what to do.The player start each round by typing "r" for "rock", "p" for "paper" and "s" for "scissors". The computer also choose betweeen these three things.
