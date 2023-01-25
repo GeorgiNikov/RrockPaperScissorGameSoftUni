@@ -41,4 +41,4 @@ function rockPaperScissors(text){
     console.log("This game was a draw!");
   }
 }
-rockPaperScissors()
+rockPaperScissors("paper")
