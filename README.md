@@ -1,5 +1,7 @@
 # The "Rock-Paper-Scissors" Game
 
+![suit6](https://user-images.githubusercontent.com/122818055/214565371-a0944943-861c-4a87-994b-0a0e945d8d9e.png)
+
 # Source code
 https://replit.com/@GeorgiNikov/RockPaperScissorsSoftUniGame?v=1
 # About
