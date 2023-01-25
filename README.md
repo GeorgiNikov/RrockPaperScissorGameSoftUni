@@ -8,11 +8,11 @@ Rock-Paper-Scissors is a simple two-player game where you and your opponent(the 
 The rules are simple:
 Rock beats scissors(the scissors get broken by the rock);
 
-![Screenshot of the game(2)](https://user-images.githubusercontent.com/122818055/214552958-8c138f70-8ed3-440c-8e42-8b223574896a.png)
+![Screenshot of the game(2)](https://user-images.githubusercontent.com/122818055/214554970-314fe1d2-7d3a-4cf8-b1cf-53fd6c6cdac8.png)
 
 Scissors beats paper(the paper gets cut by the scissors);
 
-![Screenshot of the game(1)](https://user-images.githubusercontent.com/122818055/214552598-69d8eb94-ab51-46e5-bb33-8d011cea162c.png)
+![Screenshot of the game(1)](https://user-images.githubusercontent.com/122818055/214554863-bd968c0d-c97b-4582-a905-c00649f5329b.png)
 
 Paper beats rock(the paper covers the rock);
 
